@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Sanctissimo App Política de privacidad
+# Política de privacidad
 
 El propietario construyó la aplicación Sanctissimo como una aplicación Freemium. Este SERVICIO es proporcionado por la aplicación Sanctissimo sin costo alguno y está destinado a ser utilizado como es.
 
