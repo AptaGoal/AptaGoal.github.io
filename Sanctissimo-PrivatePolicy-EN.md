@@ -1,7 +1,6 @@
-# Sanctissimo
+# Sanctissimo App Privacy Policy
 
-## Privacy Policy
-LagoonProject built the Sanctissimo app as a Freemium app. This SERVICE is provided by the Sanctissimo app at no cost and is intended for use as is.
+The owner built the Sanctissimo app as a Freemium app. This SERVICE is provided by the Sanctissimo app at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -15,7 +14,7 @@ For a better experience, while using our Service, we may require you to provide 
 
 The app does use third-party services that may collect information used to identify you.
 
-### Link to the privacy policy of third-party service providers used by the app
+### Links to the privacy policy of third-party service providers used by the app
 
 - [Google Play Services](https://www.google.com/policies/privacy/)
 - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
@@ -63,5 +62,3 @@ This policy is effective as of 2022-04-14
 ### Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at sanctissimoapp@gmail.com.
-
-À partir de l’adresse <https://github.com/LagoonProject/lagoonproject.github.io/edit/main/PrivatePolicy-EN.md>
