@@ -1,6 +1,6 @@
 
 ---
-layout: default
+layout: sanctissimo
 ---
 
 # Politique de confidentialité
