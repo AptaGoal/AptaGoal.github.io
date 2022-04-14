@@ -1,3 +1,3 @@
-## Sanctissimo
+## Lagoon Project
 
-Improve your life through prayer!
+Welcome to Lagoon Project
