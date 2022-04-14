@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Sanctissimo App Política de Privacidade
 
 LagoonProject construiu a aplicação Sanctissimo como uma aplicação Freemium. Este SERVIÇO é fornecido pela aplicação Sanctissimo sem custos e destina-se a ser utilizado tal como está.
