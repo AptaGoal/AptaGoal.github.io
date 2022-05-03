@@ -304,7 +304,20 @@ Full-Width Styles
   background: linear-gradient(to top, #373737, #212121);
 }
 
+#header_wrap_sancti {
+  background: #582370;
+  // background: -moz-linear-gradient(top, #373737, #212121);
+  // background: -webkit-linear-gradient(top, #373737, #212121);
+  // background: -ms-linear-gradient(top, #373737, #212121);
+  // background: -o-linear-gradient(top, #373737, #212121);
+  // background: linear-gradient(to top, #373737, #212121);
+}
+
 #header_wrap .inner {
+  padding: 50px 10px 30px 10px;
+}
+
+#header_wrap_sancti .inner {
   padding: 50px 10px 30px 10px;
 }
 
@@ -376,7 +389,9 @@ Full-Width Styles
 #footer_wrap {
   background: #212121;
 }
-
+#footer_wrap_sancti {
+  background: #582370;
+}
 
 
 /*******************************************************************************

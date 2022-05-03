@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: sanctissimo
 ---
-# Sanctissimo
 
 ##  Privacy Policy
 
