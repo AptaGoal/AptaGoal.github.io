@@ -42,7 +42,7 @@ Nous pouvons employer des sociétés et des personnes tierces pour les raisons s
 
 Pour faciliter notre Service ;
 Pour fournir le Service en notre nom ;
-Pour effectuer des services liés à l'a pplication ; ou
+Pour effectuer des services liés à l'application ; ou
 Pour nous aider à analyser la façon dont notre service est utilisé.
 Nous souhaitons informer les utilisateurs de ce service que ces tiers ont accès à leurs informations personnelles. La raison en est l'exécution des tâches qui leur sont assignées en notre nom. Toutefois, ils sont tenus de ne pas divulguer ou utiliser ces informations à d'autres fins.
 
