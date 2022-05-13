@@ -7,7 +7,7 @@ layout: sanctissimo
 
 Le propriétaire a conçu l'application Sanctissimo comme une application Freemium. Ce SERVICE est fourni gratuitement par l'application Sanctissimo et est destiné à être utilisé tel quel.
 
-Cette page est utilisée pour informer les visiteurs de nos politiques de collecte, d'utilisation et de divulgation des informations personnelles si quelqu'un décide d'utiliser notre service.
+Cette page est utilisée pour informer les visiteurs de nos politiques de collecte, d'utilisation et de divulgation des informations personnelles en cas d'utilisation de notre service.
 
 Si vous choisissez d'utiliser notre service, vous acceptez la collecte et l'utilisation des informations en relation avec cette politique. Les informations personnelles que nous recueillons sont utilisées pour fournir et améliorer le service. Nous n'utiliserons ni ne partagerons vos informations avec quiconque, sauf dans les cas décrits dans la présente politique de confidentialité.
 
@@ -15,26 +15,26 @@ Les termes utilisés dans cette politique de confidentialité ont la même signi
 
 ### Collecte et utilisation des informations
 
-Pour une meilleure expérience, lors de l'utilisation de notre Service, nous pouvons vous demander de nous fournir certaines informations personnellement identifiables, y compris, mais sans s'y limiter, l'adresse e-mail, le mot de passe, le nom d'utilisateur, les informations relatives à la transaction, la description du service auquel vous avez souscrit, le prix, la date d'expiration de l'abonnement, l'heure et la date de la transaction, la localisation de votre appareil, son modèle, la version de son système d'exploitation, la connexion Internet, l'opérateur, l'état des paramètres de votre appareil. Les informations que nous demandons seront conservées sur votre appareil et ne sont en aucun cas collectées par nous.
+Pour une meilleure expérience, lors de l'utilisation de notre Service, nous pouvons vous demander de nous fournir certaines informations d'identification personnelle, y compris, mais sans s'y limiter, l'adresse e-mail, le mot de passe, le nom d'utilisateur, les informations relatives à la transaction, la description du service auquel vous avez souscrit, le prix, la date d'expiration de l'abonnement, l'heure et la date de la transaction, la localisation de votre appareil, son modèle, la version de son système d'exploitation, la connexion Internet, l'opérateur, l'état des paramètres de votre appareil. Les informations que nous demandons seront conservées sur votre appareil et ne sont en aucun cas collectées par nous.
 
 L'application utilise des services tiers qui peuvent recueillir des informations permettant de vous identifier.
 
 ### Liens vers la politique de confidentialité des fournisseurs de services tiers utilisés par l'application
 
-- Google Play Services] (https://www.google.com/policies/privacy/)
+- [Google Play Services](https://www.google.com/policies/privacy/)
 - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 - [Google Analytics pour Firebase](https://firebase.google.com/policies/analytics)
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 - [Expo](https://expo.io/privacy)
 - Données de log
 
-Nous tenons à vous informer qu'à chaque fois que vous utilisez notre Service, en cas d'erreur dans l'application, nous collectons des données et des informations (par le biais de produits tiers) sur votre téléphone appelées Données de journal. Ces données peuvent inclure des informations telles que l'adresse du protocole Internet ("IP") de votre appareil, le nom de l'appareil, la version du système d'exploitation, la configuration de l'application lors de l'utilisation de notre service, l'heure et la date de votre utilisation du service et d'autres statistiques.
+Nous tenons à vous informer qu'à chaque fois que vous utilisez notre Service, en cas d'erreur dans l'application, nous collectons des données et des informations (par le biais de produits tiers) sur votre téléphone appelées Données de journal (logs). Ces données peuvent inclure des informations telles que l'adresse du protocole Internet ("IP") de votre appareil, le nom de l'appareil, la version du système d'exploitation, la configuration de l'application lors de l'utilisation de notre service, l'heure et la date de votre utilisation du service et d'autres statistiques.
 
 ### Cookies
 
-Les cookies sont des fichiers contenant une petite quantité de données qui sont généralement utilisés comme identifiants uniques anonymes. Ils sont envoyés à votre navigateur à partir des sites web que vous visitez et sont stockés dans la mémoire interne de votre appareil.
+Les cookies sont des fichiers contenant une petite quantité de données qui sont généralement utilisées comme identifiants uniques anonymes. Ils sont envoyés à votre navigateur à partir des sites web que vous visitez et sont stockés dans la mémoire interne de votre appareil.
 
-Ce service n'utilise pas explicitement ces "cookies". Cependant, l'application peut utiliser du code et des bibliothèques de tiers qui utilisent des "cookies" pour collecter des informations et améliorer leurs services. Vous avez la possibilité d'accepter ou de refuser ces cookies et de savoir quand un cookie est envoyé à votre appareil. Si vous choisissez de refuser nos cookies, il se peut que vous ne puissiez pas utiliser certaines parties de ce service.
+Sanctissimo n'utilise pas explicitement ces "cookies". Cependant, l'application peut utiliser du code et des bibliothèques de tiers qui utilisent des "cookies" pour collecter des informations et améliorer leurs services. Vous avez la possibilité d'accepter ou de refuser ces cookies et de savoir quand un cookie est envoyé à votre appareil. Si vous choisissez de refuser nos cookies, il se peut que vous ne puissiez pas utiliser certaines parties de ce service.
 
 ### Fournisseurs de services
 
@@ -42,7 +42,7 @@ Nous pouvons employer des sociétés et des personnes tierces pour les raisons s
 
 Pour faciliter notre Service ;
 Pour fournir le Service en notre nom ;
-Pour effectuer des services liés au Service ; ou
+Pour effectuer des services liés à l'a pplication ; ou
 Pour nous aider à analyser la façon dont notre service est utilisé.
 Nous souhaitons informer les utilisateurs de ce service que ces tiers ont accès à leurs informations personnelles. La raison en est l'exécution des tâches qui leur sont assignées en notre nom. Toutefois, ils sont tenus de ne pas divulguer ou utiliser ces informations à d'autres fins.
 
