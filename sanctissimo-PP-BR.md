@@ -5,7 +5,7 @@ layout: sanctissimo
 
 ##  Política de Privacidade
 
-LagoonProject construiu o aplicativo Sanctissimo como um aplicativo Freemium. Este SERVIÇO é fornecido pelo aplicativo Sanctissimo sem custos e destina-se a ser utilizado tal como está.
+Apta Goal construiu o aplicativo Sanctissimo como um aplicativo Freemium. Este SERVIÇO é fornecido pelo aplicativo Sanctissimo sem custos e destina-se a ser utilizado tal como está.
 
 Esta página é utilizada para informar os visitantes sobre as nossas políticas de recolha, utilização, e divulgação de Informações Pessoais, caso alguém decida utilizar o nosso Serviço.
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to Lagoon Project !
+## Welcome to Apta Goal !
 
-Uplifting tools to change your life.
+Uplifting tools to improve your life.
 
