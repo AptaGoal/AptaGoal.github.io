@@ -1,5 +1,5 @@
 ---
-layout: sanctissimo
+layout: tensionTimer
 ---
 
 ## Privacy Policy
