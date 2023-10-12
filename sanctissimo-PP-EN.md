@@ -2,9 +2,9 @@
 layout: sanctissimo
 ---
 
-##  Privacy Policy
+## Privacy Policy
 
-toast
+toast lala
 
 The owner built Sanctissimo app as a Freemium app. This SERVICE is provided by the Sanctissimo app at no cost and is intended for use as is.
 
